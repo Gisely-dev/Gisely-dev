@@ -36,16 +36,6 @@ GISELY OLIVEIRA
 
 Software Developer · Backend · Web · AI
 
-</div> <br> <table> <tr> <td width="55%" valign="top">
-
-Sou Gisely Oliveira, desenvolvedora em evolução contínua, apaixonada por tecnologia e pela criação de soluções através do código.
-
-Meu foco está em desenvolvimento de software, backend, APIs e aplicações web, enquanto exploro novas possibilidades com Inteligência Artificial.
-
-Gosto de transformar ideias em projetos reais, experimentar tecnologias e aprender construindo.
-
-<br>
-
 FOCUS
 
 BACKEND · WEB · APIs · AI
