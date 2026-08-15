@@ -56,10 +56,6 @@ CURRENT STACK
 
 JAVA · JAVASCRIPT · NODE.JS · PYTHON
 
-</td> <td width="45%" valign="top">
-
-</td> </tr> </table>
-
 <div align="center">
 LANGUAGES
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
