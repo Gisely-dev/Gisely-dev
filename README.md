@@ -28,8 +28,6 @@
 
 
 <div align="center">
-# `>_ SYSTEM BOOTING...`
-```text
 ██████████████████████████████████████████████████
 
 
@@ -50,7 +48,6 @@ ACCESS: DEVELOPER
 ██████████████████████████████████████████████████
 </div>
 
-01 // SOBRE MIM
 <div align="center">
 GISELY OLIVEIRA
 
@@ -92,7 +89,6 @@ JAVA · JAVASCRIPT · NODE.JS · PYTHON
 └───────────────────────────────┘
 </td> </tr> </table>
 
-02 // TECH STACK
 <div align="center">
 LANGUAGES
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
@@ -107,7 +103,6 @@ BACKEND & APIs
 DEVELOPMENT
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000"/> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000"/> <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=000000"/> <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000"/> </div>
 
-03 // TOOLKIT
 <div align="center"> <table> <tr> <td align="center" width="25%">
 CODE
 
@@ -154,7 +149,6 @@ LEARNING
 
 </td> </tr> </table> </div>
 
-04 // PROJECTS
 <div align="center">
 SELECTED WORK
 <br> <a href="https://github.com/Gisely-dev?tab=repositories"> <img src="https://img.shields.io/badge/ACCESS_ALL_PROJECTS-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/> </a> </div> <br> <table> <tr> <td width="50%" valign="top">
@@ -173,7 +167,6 @@ Projetos de estudo, APIs, aplicações e experimentos.
 
 <br> <a href="https://github.com/Gisely-dev?tab=repositories"> <img src="https://img.shields.io/badge/VER_CÓDIGO-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/> </a> </td> </tr> </table>
 
-05 // CURRENT OBJECTIVES
 <div align="center">
 ┌─────────────────────────────────────────────────┐
 │ >_ GISA.DEV TERMINAL                            │
@@ -192,19 +185,16 @@ Projetos de estudo, APIs, aplicações e experimentos.
 └─────────────────────────────────────────────────┘
 </div>
 
-06 // GITHUB ANALYTICS
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gisely-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisely-dev&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Gisely-dev&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/> </div>
 
-07 // ACTIVITY
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gisely-dev&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=GISELY%20OLIVEIRA%20-%20CONTRIBUTION%20MATRIX" width="95%"/> </div>
 
-08 // TROPHIES
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gisely-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/> </div>
 09 // CONTRIBUTION MATRIX
 <div align="center">
 SYSTEM ACTIVITY
 <br> <img src="https://raw.githubusercontent.com/Gisely-dev/Gisely-dev/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/> </div>
-10 // CONNECT
+
 <div align="center"> <a href="https://github.com/Gisely-dev"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/in/gisely-oliveira-9a9a28362/"> <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a> <a href="https://gisely-dev.github.io/meu-portfolio/"> <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/> </a> </div> <br> <div align="center">
 
 GITHUB    LINKEDIN    PORTFOLIO
