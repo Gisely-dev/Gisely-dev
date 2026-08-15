@@ -57,19 +57,7 @@ CURRENT STACK
 JAVA · JAVASCRIPT · NODE.JS · PYTHON
 
 </td> <td width="45%" valign="top">
-┌───────────────────────────────┐
-│       GISA.DEV CORE           │
-├───────────────────────────────┤
-│                               │
-│  USER      Gisely Oliveira    │
-│  ROLE      Developer          │
-│  FOCUS     Backend / Web      │
-│  AI        Enabled            │
-│  STATUS    Building...        │
-│                               │
-│  >_ access granted            │
-│                               │
-└───────────────────────────────┘
+
 </td> </tr> </table>
 
 <div align="center">
@@ -195,4 +183,4 @@ GISELY.DEV // END OF TRANSMISSION
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/> </div>
