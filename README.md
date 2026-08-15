@@ -25,7 +25,7 @@ public void quemSou() {
     }
 }
 
-💬 "Código bom é aquele que resolve o problema — código ótimo é aquele que a gente entende seis meses depois."
+"Código bom é aquele que resolve o problema — código ótimo é aquele que a gente entende seis meses depois."
 
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
 Tech Stack
@@ -59,13 +59,9 @@ Estatísticas do GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gisely-dev&theme=react-dark&bg_color=0D0D0D&color=FFFFFF&line=E5383B&point=C1121F&area_color=8B0000&area=true&hide_border=true" width="100%"/> </div>
 
-💡 Obs: troquei o card clássico de estatísticas (github-readme-stats.vercel.app) pelos cards do github-profile-summary-cards, porque a instância oficial do primeiro está pausada pelo mantenedor desde janeiro/2026.
-
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
-Troféus
+Meus troféus
 <div align="center"> <img src="https://github-trophies.devomb.com/?username=Gisely-dev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&row=1" /> </div>
-
-Os troféus aparecem conforme sua atividade no GitHub aumenta. Se você é nova por aqui, é normal aparecer pouco ainda — eles vão se preenchendo com o tempo!
 
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
 🔗 Conecte-se comigo
