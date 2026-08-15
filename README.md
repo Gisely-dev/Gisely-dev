@@ -2,8 +2,6 @@
 
 🖤 Sobre mim
 
-java
-
 public class Gisely {
     private String apelido = "Gisa";
     private String curso = "Engenharia de Software";
@@ -23,12 +21,18 @@ public void quemSou() {
 ⚙️ Tech Stack
 <div align="center">
 Linguagens
+    
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=C1121F" /> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=C1121F" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=C1121F" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=C1121F" /> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=C1121F" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=C1121F" />
+
 Frameworks & Ferramentas
+
 <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C1121F" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C1121F" />
-Design & Organização
+                                                                                                                                                                                                                              Design & Organização
+
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=miro&logoColor=C1121F" /> </div> <br>
+
 📊 Estatísticas do GitHub
+
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gisely-dev&show_icons=true&theme=transparent&title_color=E5383B&icon_color=E5383B&text_color=FFFFFF&bg_color=0D0D0D&border_color=8B0000&hide_border=false&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisely-dev&layout=compact&theme=transparent&title_color=E5383B&text_color=FFFFFF&bg_color=0D0D0D&border_color=8B0000&hide_border=false"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisely-dev&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=E5383B&fire=C1121F&currStreakLabel=E5383B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="streak stats"/>
 
 <br><br>
