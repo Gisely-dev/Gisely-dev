@@ -28,24 +28,7 @@
 
 
 <div align="center">
-██████████████████████████████████████████████████
-
-
-[ OK ] Initializing developer profile...
-[ OK ] Loading Java environment...
-[ OK ] Loading JavaScript environment...
-[ OK ] Starting Node.js runtime...
-[ OK ] Connecting APIs...
-[ OK ] Loading AI modules...
-[ OK ] GitHub connection established...
-
-
-SYSTEM STATUS: ONLINE
-USER: GISELY OLIVEIRA
-ACCESS: DEVELOPER
-
-
-██████████████████████████████████████████████████
+  
 </div>
 
 <div align="center">
