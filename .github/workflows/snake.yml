@@ -20,9 +20,17 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          cd dist
+          git init
+          git add .
+          git commit -m "Update Snake"
+
+          git branch -M output
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/Gisely-dev/Gisely-dev.git"
+          git push --force origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
