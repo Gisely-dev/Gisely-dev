@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Gerar Animação da Cobrinha
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate:
+  gerar:
     permissions:
       contents: write
     runs-on: ubuntu-latest
