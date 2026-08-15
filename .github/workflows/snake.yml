@@ -1,4 +1,4 @@
-name: Generate Snake
+name: 🐍 Gerar Cobra
 
 on:
   workflow_dispatch:
@@ -11,7 +11,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Snake
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Gisely-dev
@@ -19,10 +22,20 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist"
-          message: "Update Snake"
-          new_branch: output
-          push: true
+      - name: Publicar Snake
+        run: |
+          cp -r dist /tmp/snake-dist
+
+          git checkout --orphan output
+
+          git rm -rf . || true
+          git clean -fdx
+
+          cp -r /tmp/snake-dist/* .
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "Update Snake"
+          git push origin output --force
