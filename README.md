@@ -1,36 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=230&section=header&text=GISA.DEV&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=FF4D6D&center=true&vCenter=true&width=700&lines=Gisely+Oliveira;Software+Developer;Backend+%7C+Web+%7C+APIs;Java+%7C+JavaScript+%7C+Node.js;Exploring+Artificial+Intelligence;Building+ideas+into+code." alt="Typing animation"/>
-
-<br><br>
-
-<a href="https://github.com/Gisely-dev">
-<img src="https://img.shields.io/badge/GitHub-8B0000?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gisely-oliveira-9a9a28362/">
-<img src="https://img.shields.io/badge/LinkedIn-FF4D6D?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://gisely-dev.github.io/meu-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-A52A2A?style=flat-square&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ## `01 / ABOUT`
 
-### Turning curiosity into software.
+### Transformando curiosidade em código.
 
 </div>
 
@@ -38,40 +10,41 @@
 
 <table align="center">
 <tr>
+
 <td width="55%" valign="top">
 
 ### Gisely Oliveira
 
-Sou desenvolvedora em evolução contínua, interessada em **software, backend, APIs, desenvolvimento web e Inteligência Artificial**.
+Sou desenvolvedora em evolução contínua, apaixonada por tecnologia e interessada em **software, backend, APIs, desenvolvimento web e Inteligência Artificial**.
 
-Gosto de transformar ideias em projetos reais e usar cada projeto como uma oportunidade para aprender algo novo.
+Gosto de transformar ideias em projetos reais e usar cada projeto como uma oportunidade para **aprender, experimentar e evoluir**.
 
-Atualmente estou aprofundando meus conhecimentos em:
+Atualmente, estou aprofundando meus conhecimentos em:
 
-- Java
-- JavaScript
-- Node.js
-- APIs
-- Backend
-- Inteligência Artificial
-- Desenvolvimento Web
+- **Java**
+- **JavaScript**
+- **Node.js**
+- **APIs**
+- **Backend**
+- **Inteligência Artificial**
+- **Desenvolvimento Web**
 
 </td>
 
 <td width="45%" valign="top">
 ```text
-┌───────────────────────────┐
-│   gisely@dev ~ $          │
-│                           │
-│   role      developer      │
-│   focus     backend        │
-│   stack     java / js      │
-│   runtime   node           │
-│   interest  ai             │
-│                           │
-│   status: building...     │
-└───────────────────────────┘
-</td> </tr> </table> <br>
+┌─────────────────────────────┐
+│  gisely@dev ~ $             │
+│                             │
+│  role       developer       │
+│  focus      backend         │
+│  stack      java / js       │
+│  runtime    node            │
+│  interest   ai              │
+│                             │
+│  status: building...        │
+└─────────────────────────────┘
+</td> </tr> </table> ```
 
 <div align="center">
 02 / STACK
