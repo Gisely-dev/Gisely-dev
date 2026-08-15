@@ -1,20 +1,24 @@
 <div align="center"> <!-- Banner animado --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:C1121F&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20Gisely!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Gisa.dev%20%7C%20Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=18" /> <!-- Typing animado --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E5383B&center=true&vCenter=true&width=650&lines=Dev+Backend+%7C+Estudo+Full+Stack;Java+%26+SQL+como+base;Sempre+aprendendo+algo+novo;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /> </a> <br> <img src="https://komarev.com/ghpvc/?username=Gisely-dev&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=C1121F&style=for-the-badge&labelColor=000000" alt="visitor badge"/> </div> <br>
+
 🖤 Sobre mim
+
 java
+
 public class Gisely {
     private String apelido = "Gisa";
     private String curso = "Engenharia de Software";
     private String foco = "Desenvolvimento Backend";
     private String[] estudando = {"Full Stack", "Java", "SQL"};
     private boolean sempreAprendendo = true;
-
-    public void quemSou() {
-        System.out.println("🎓 Estudante de Eng. de Software");
-        System.out.println("💻 Dev Backend, aprendendo Full Stack");
-        System.out.println("🔥 Linguagem principal: Java + SQL");
-        System.out.println("🚀 Curiosa por natureza, aprendo de tudo!");
+ 
+public void quemSou() {
+        System.out.println("Estudante de Eng. de Software");
+        System.out.println("Dev Backend, aprendendo Full Stack");
+        System.out.println("Linguagem principal: Java + SQL");
+        System.out.println("Curiosa por natureza, aprendo de tudo!");
     }
 }
+
 <br>
 ⚙️ Tech Stack
 <div align="center">
