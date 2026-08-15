@@ -19,7 +19,9 @@ public void quemSou() {
 
 <br>
 ⚙️ Tech Stack
+
 <div align="center">
+    
 Linguagens
     
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=C1121F" /> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=C1121F" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=C1121F" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=C1121F" /> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=C1121F" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=C1121F" />
@@ -27,7 +29,8 @@ Linguagens
 Frameworks & Ferramentas
 
 <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C1121F" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C1121F" />
-                                                                                                                                                                                                                              Design & Organização
+
+Design & Organização
 
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=miro&logoColor=C1121F" /> </div> <br>
 
@@ -38,7 +41,11 @@ Frameworks & Ferramentas
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gisely-dev&theme=react-dark&bg_color=0D0D0D&color=FFFFFF&line=E5383B&point=C1121F&area_color=8B0000&area=true&hide_border=true" width="100%"/> </div> <br>
+
 🏆 Troféus
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gisely-dev&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Repositories,Followers" /> </div> <br>
+
 🔗 Conecte-se comigo
+
 <div align="center"> <a href="https://www.linkedin.com/in/gisely-oliveira-9a9a28362/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://gisely-dev.github.io/meu-portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=C1121F" /> </a> <a href="https://instagram.com/gisa.dev" target="_blank"> <img src="https://img.shields.io/badge/Instagram-C1121F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div> <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:8B0000,100:000000&height=120&section=footer" /> </div>
