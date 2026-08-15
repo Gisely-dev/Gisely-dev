@@ -18,23 +18,23 @@ public class Gisely {
     private boolean sempreAprendendo = true;
 
 public void quemSou() {
-        System.out.println("🎓 Estudante de Eng. de Software");
-        System.out.println("💻 Dev Backend, aprendendo Full Stack");
-        System.out.println("🔥 Linguagem principal: Java + SQL");
-        System.out.println("🚀 Curiosa por natureza, aprendo de tudo!");
+        System.out.println("Estudante de Eng. de Software");
+        System.out.println("Dev Backend, aprendendo Full Stack");
+        System.out.println("Linguagem principal: Java + SQL");
+        System.out.println("Curiosa por natureza, aprendo de tudo!");
     }
 }
 
 💬 "Código bom é aquele que resolve o problema — código ótimo é aquele que a gente entende seis meses depois."
 
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
-⚙️ Tech Stack
+Tech Stack
 <div align="center">
-🧠 Linguagens
+Linguagens
 <img src="https://img.shields.io/badge/Java-C1121F?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/SQL-C1121F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/JavaScript-C1121F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/TypeScript-C1121F?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Python-C1121F?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Dart-C1121F?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/HTML5-C1121F?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/CSS3-C1121F?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
-🛠️ Frameworks & Ferramentas
+Frameworks & Ferramentas
 <img src="https://img.shields.io/badge/Angular-C1121F?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Node.js-C1121F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Maven-C1121F?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Git-C1121F?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/GitHub-C1121F?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-🎨 Design & Organização
+Design & Organização
 <img src="https://img.shields.io/badge/Figma-C1121F?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Excalidraw-C1121F?style=for-the-badge&logo=excalidraw&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/Miro-C1121F?style=for-the-badge&logo=miro&logoColor=white&labelColor=000000" /> </div> <br>
 📈 Nível de confiança nas skills
 <div align="center">
@@ -48,7 +48,7 @@ Java  ████████████████░░░░  80% <br> S
 🕹️ Uma cobrinha "come" seus quadradinhos de contribuição e anda por eles todo dia. Pra ativar, é só configurar o GitHub Action que já preparei — instruções lá embaixo!
 
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
-📊 Estatísticas do GitHub
+Estatísticas do GitHub
 <div align="center"> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gisely-dev&theme=github_dark"/> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gisely-dev&theme=github_dark"/> <br> <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gisely-dev&theme=github_dark"/>
 
 <br><br>
@@ -62,10 +62,10 @@ Java  ████████████████░░░░  80% <br> S
 💡 Obs: troquei o card clássico de estatísticas (github-readme-stats.vercel.app) pelos cards do github-profile-summary-cards, porque a instância oficial do primeiro está pausada pelo mantenedor desde janeiro/2026.
 
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
-🏆 Troféus
+Troféus
 <div align="center"> <img src="https://github-trophies.devomb.com/?username=Gisely-dev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&row=1" /> </div>
 
-💡 Os troféus aparecem conforme sua atividade no GitHub aumenta. Se você é nova por aqui, é normal aparecer pouco ainda — eles vão se preenchendo com o tempo!
+Os troféus aparecem conforme sua atividade no GitHub aumenta. Se você é nova por aqui, é normal aparecer pouco ainda — eles vão se preenchendo com o tempo!
 
 <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:C1121F,100:000000&height=4" /> </div>
 🔗 Conecte-se comigo
