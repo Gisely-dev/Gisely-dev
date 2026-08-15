@@ -1,172 +1,36 @@
-<div align="center">
+<div align="center"> <!-- Banner animado --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:C1121F&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20a%20Gisely!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Gisa.dev%20%7C%20Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=18" /> <!-- Typing animado --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E5383B&center=true&vCenter=true&width=650&lines=Dev+Backend+%7C+Estudo+Full+Stack;Java+%26+SQL+como+base;Sempre+aprendendo+algo+novo;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /> </a> <br> <img src="https://komarev.com/ghpvc/?username=Gisely-dev&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=C1121F&style=for-the-badge&labelColor=000000" alt="visitor badge"/> </div> <br>
+🖤 Sobre mim
+java
+public class Gisely {
+    private String apelido = "Gisa";
+    private String curso = "Engenharia de Software";
+    private String foco = "Desenvolvimento Backend";
+    private String[] estudando = {"Full Stack", "Java", "SQL"};
+    private boolean sempreAprendendo = true;
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=GISA.DEV&fontSize=65&fontColor=FF0000&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20ONLINE&descAlignY=58&descColor=FFFFFF&descSize=18"/>
-
-
+    public void quemSou() {
+        System.out.println("🎓 Estudante de Eng. de Software");
+        System.out.println("💻 Dev Backend, aprendendo Full Stack");
+        System.out.println("🔥 Linguagem principal: Java + SQL");
+        System.out.println("🚀 Curiosa por natureza, aprendo de tudo!");
+    }
+}
 <br>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+a+Gisely+%7C+Developer;Java+%7C+JavaScript+%7C+Node.js;Backend+%7C+APIs+%7C+Web;Artificial+Intelligence+%7C+Automation;Building+ideas+into+code." alt="Typing Animation"/>
-
+⚙️ Tech Stack
+<div align="center">
+Linguagens
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=C1121F" /> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=C1121F" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=C1121F" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=C1121F" /> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=C1121F" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=C1121F" />
+Frameworks & Ferramentas
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C1121F" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C1121F" />
+Design & Organização
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=C1121F" /> <img src="https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=miro&logoColor=C1121F" /> </div> <br>
+📊 Estatísticas do GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gisely-dev&show_icons=true&theme=transparent&title_color=E5383B&icon_color=E5383B&text_color=FFFFFF&bg_color=0D0D0D&border_color=8B0000&hide_border=false&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisely-dev&layout=compact&theme=transparent&title_color=E5383B&text_color=FFFFFF&bg_color=0D0D0D&border_color=8B0000&hide_border=false"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisely-dev&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=E5383B&fire=C1121F&currStreakLabel=E5383B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="streak stats"/>
 
 <br><br>
 
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF0000?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FFFFFF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-FF0000?style=for-the-badge&labelColor=000000"/>
-
-
-</div>
-
-
-<br>
-
-
----
-
-
-<div align="center">
-  
-</div>
-
-<div align="center">
-GISELY OLIVEIRA
-
-Software Developer · Backend · Web · AI
-
-FOCUS
-
-BACKEND · WEB · APIs · AI
-
-<br>
-
-CURRENT STACK
-
-JAVA · JAVASCRIPT · NODE.JS · PYTHON
-
-<div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
-
-<br><br>
-
-BACKEND & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"/>
-
-<br><br>
-
-DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark"/> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=000000"/> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000"/> <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=000000"/> <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000"/> </div>
-
-<div align="center"> <table> <tr> <td align="center" width="25%">
-CODE
-
-VS CODE
-
-GIT
-
-GITHUB
-
-NPM
-
-</td> <td align="center" width="25%">
-API
-
-EXPRESS
-
-POSTMAN
-
-REST
-
-JSON
-
-</td> <td align="center" width="25%">
-WEB
-
-HTML
-
-CSS
-
-JAVASCRIPT
-
-NODE.JS
-
-</td> <td align="center" width="25%">
-AI
-
-AI
-
-AUTOMATION
-
-EXPERIMENTS
-
-LEARNING
-
-</td> </tr> </table> </div>
-
-<div align="center">
-SELECTED WORK
-<br> <a href="https://github.com/Gisely-dev?tab=repositories"> <img src="https://img.shields.io/badge/ACCESS_ALL_PROJECTS-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/> </a> </div> <br> <table> <tr> <td width="50%" valign="top">
-PORTFOLIO
-
-Meu espaço pessoal de desenvolvimento.
-
-Projetos, experimentos e minha evolução como desenvolvedora.
-
-<br> <a href="https://gisely-dev.github.io/meu-portfolio/"> <img src="https://img.shields.io/badge/VER_PORTFÓLIO-FF0000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=000000"/> </a> </td> <td width="50%" valign="top">
-GITHUB
-
-Laboratório de código.
-
-Projetos de estudo, APIs, aplicações e experimentos.
-
-<br> <a href="https://github.com/Gisely-dev?tab=repositories"> <img src="https://img.shields.io/badge/VER_CÓDIGO-FF0000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/> </a> </td> </tr> </table>
-
-<div align="center">
-┌─────────────────────────────────────────────────┐
-│ >_ GISA.DEV TERMINAL                            │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│ > studying Java                         [ OK ]  │
-│ > building backend APIs                 [ OK ]  │
-│ > improving JavaScript                  [ OK ]  │
-│ > exploring Node.js                     [ OK ]  │
-│ > studying artificial intelligence      [ ON ]  │
-│ > creating new projects                 [ ON ]  │
-│ > learning every day                    [ ON ]  │
-│                                                 │
-│ >_ SYSTEM: BUILDING NEXT VERSION...             │
-│                                                 │
-└─────────────────────────────────────────────────┘
-</div>
-
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gisely-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisely-dev&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Gisely-dev&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/> </div>
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gisely-dev&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&hide_border=true&custom_title=GISELY%20OLIVEIRA%20-%20CONTRIBUTION%20MATRIX" width="95%"/> </div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gisely-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/> </div>
-09 // CONTRIBUTION MATRIX
-<div align="center">
-SYSTEM ACTIVITY
-<br> <img src="https://raw.githubusercontent.com/Gisely-dev/Gisely-dev/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/> </div>
-
-<div align="center"> <a href="https://github.com/Gisely-dev"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/in/gisely-oliveira-9a9a28362/"> <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a> <a href="https://gisely-dev.github.io/meu-portfolio/"> <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/> </a> </div> <br> <div align="center">
-
-GITHUB    LINKEDIN    PORTFOLIO
-
-</div>
-<br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&section=footer" width="90%"/>
-
-<br><br>
-
-ACCESS GRANTED
-SYSTEM ONLINE
-CONNECTION ESTABLISHED
-GISELY.DEV // END OF TRANSMISSION
-<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE...;KEEP+BUILDING.;KEEP+LEARNING.;ACCESS+GRANTED." alt="System Status"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/> </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gisely-dev&theme=react-dark&bg_color=0D0D0D&color=FFFFFF&line=E5383B&point=C1121F&area_color=8B0000&area=true&hide_border=true" width="100%"/> </div> <br>
+🏆 Troféus
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gisely-dev&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Repositories,Followers" /> </div> <br>
+🔗 Conecte-se comigo
+<div align="center"> <a href="https://www.linkedin.com/in/gisely-oliveira-9a9a28362/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://gisely-dev.github.io/meu-portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=C1121F" /> </a> <a href="https://instagram.com/gisa.dev" target="_blank"> <img src="https://img.shields.io/badge/Instagram-C1121F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div> <br> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C1121F,50:8B0000,100:000000&height=120&section=footer" /> </div>
