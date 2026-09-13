@@ -158,8 +158,6 @@ interface Developer {
 </picture>
 </div>
 
-> Depende do GitHub Action `.github/workflows/snake.yml` — instruções de ativação no final.
-
 <br>
 
 ## Conecte-se comigo
