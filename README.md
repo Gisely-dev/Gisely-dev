@@ -162,10 +162,6 @@ interface Developer {
 
 <br>
 
-<div align="center"><img width="100%" height="2" src="https://img.shields.io/badge/-C1121F?style=flat-square"/></div>
-
-<br>
-
 ## Conecte-se comigo
 
 <div align="center">
